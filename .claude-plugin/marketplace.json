@@ -1,0 +1,14 @@
+{
+  "name": "highch-art",
+  "owner": {
+    "name": "Thomas Heggelund"
+  },
+  "plugins": [
+    {
+      "name": "highch-art",
+      "source": "./plugins/highch-art",
+      "description": "Research data, upload datasets and publish Highcharts HTML dashboards on a highch.art workspace."
+    }
+  ],
+  "description": "Skills for working with a highch.art workspace."
+}

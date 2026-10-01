@@ -1,0 +1,6 @@
+{
+  "name": "highch-art",
+  "version": "2.0.0",
+  "description": "Research data, upload datasets and publish Highcharts HTML dashboards on a highch.art workspace.",
+  "author": { "name": "Thomas Heggelund" }
+}
