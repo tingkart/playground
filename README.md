@@ -5,9 +5,11 @@ Claude Code plugin for a highch.art workspace. It ships the `highch-art` skill a
 ## Install
 
 ```
-/plugin marketplace add YOUR_GITHUB_USER/highch-art-plugin
+/plugin marketplace add tingkart/playground
 /plugin install highch-art@highch-art
 ```
+
+The repo is private, so installing needs read access to `tingkart/playground` through `gh` or SSH. For background auto-update, set `GITHUB_TOKEN` or `GH_TOKEN`.
 
 ## Connect
 
